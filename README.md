@@ -3,3 +3,5 @@
 •	Implemented a CoAP client to send sensor data, CoAP server to receive sensor data at the gateway device.\
 •	Implemented MQTT client to communicate with the MQTT broker and implemented a CoAP to MQTT resource handler for proper handling of CoAP messages.\
 •	Exchanged messages with other related projects in JSON format.\
+
+
